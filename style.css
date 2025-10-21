@@ -135,7 +135,7 @@ section.content h2 c {
 
 section.content h2 span {
     position: relative;
-    background: #27d452;
+    background: #da00ff;
     font-size: clamp(0.8em, 2vw, 1.6em);
     display: inline-block;
     color: #e9e1e1;
